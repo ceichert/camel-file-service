@@ -1,0 +1,6 @@
+[submodule "camel-file-service-backend"]
+	path = camel-file-service-backend
+	url = https://github.com/ceichert/camel-file-service-backend.git
+[submodule "camel-file-service-frontend"]
+	path = camel-file-service-frontend
+	url = https://github.com/ceichert/camel-file-service-frontend.git
